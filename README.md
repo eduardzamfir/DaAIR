@@ -8,7 +8,7 @@
 
 #### **<sup>1</sup> University of Würzburg, Germany - <sup>2</sup> INSAIT Sofia University, Bulgaria - <sup>3</sup> ETH Zürich, Switzerland - <sup>4</sup> Shanghai Jiao Tong University, China**
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org)
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](http://arxiv.org/abs/2405.15475)
 [![project](https://img.shields.io/badge/project-page-brightgreen)](https://eduardzamfir.github.io/daair/)
 
 
