@@ -45,4 +45,4 @@ If you find our work helpful, please consider citing the following paper and/or 
 
 ## Acknowledgements
 
-This code is built on [PromptIR]([https://github.com/XPixelGroup/BasicSR](https://github.com/va1shn9v/PromptIR)) and [AirNet](https://github.com/XLearning-SCU/2022-CVPR-AirNet).
+This code is built on [PromptIR](https://github.com/va1shn9v/PromptIR) and [AirNet](https://github.com/XLearning-SCU/2022-CVPR-AirNet).
