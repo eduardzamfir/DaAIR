@@ -15,7 +15,7 @@
 ## Latest
 - `05/24/2024`: Repository is created.
 
-## Method:
+## Method
 <br>
 <details>
   <summary>
@@ -27,3 +27,22 @@ In response, we propose DaAIR, an efficient All-in-One image restorer employing 
 Furthermore, DaAIR introduces a cost-efficient parameter update mechanism that enhances degradation awareness while maintaining computational efficiency.
 Extensive comparisons across five image degradations demonstrate that our DaAIR outperforms both state-of-the-art All-in-One models and degradation-specific counterparts, affirming our efficacy and practicality.
 </details>
+
+
+## Citation
+
+If you find our work helpful, please consider citing the following paper and/or ⭐ the repo.
+```
+@misc{zamfir2024efficient,
+      title={Efficient Degradation-aware Any Image Restoration}, 
+      author={Eduard Zamfir and Zongwei Wu and Nancy Mehta and Danda Dani Paudel and Yulun Zhang and Radu Timofte},
+      year={2024},
+      eprint={2405.15475},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+## Acknowledgements
+
+This code is built on [PromptIR]([https://github.com/XPixelGroup/BasicSR](https://github.com/va1shn9v/PromptIR)) and [AirNet](https://github.com/XLearning-SCU/2022-CVPR-AirNet).
