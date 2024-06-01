@@ -35,7 +35,7 @@ If you find our work helpful, please consider citing the following paper and/or 
 ```
 @misc{zamfir2024efficient,
       title={Efficient Degradation-aware Any Image Restoration}, 
-      author={Eduard Zamfir and Zongwei Wu and Nancy Mehta and Danda Dani Paudel and Yulun Zhang and Radu Timofte},
+      author={Eduard Zamfir and Zongwei Wu and Nancy Mehta and Danda Pani Paudel and Yulun Zhang and Radu Timofte},
       year={2024},
       eprint={2405.15475},
       archivePrefix={arXiv},
