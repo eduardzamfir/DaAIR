@@ -13,6 +13,7 @@
 
 
 ## Latest
+- `03/04/2025`: This repository will not be further maintained. Please refer to our recent CVPR 2025 work [MoCE-IR](https://github.com/eduardzamfir/MoCE-IR).
 - `05/24/2024`: Repository is created.
 
 ## Method
